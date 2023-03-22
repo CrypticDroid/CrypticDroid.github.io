@@ -1,0 +1,47 @@
+img {width:400px;
+	display:block;
+	margin:auto;
+	padding:20px;
+	padding-bottom:50px;}
+	
+body{background-color:rgb(20,20,20);
+	color:white;}
+	
+h1{font-weight:normal;
+	font-size:30px;
+	font-family:Grinched;}
+	
+#header {background:darkgrey;
+	width:450px;
+	height:30px;
+	padding:10px;
+	margin:auto;}
+	
+#name {font-weight:bold;}
+
+#para1 {background-color:dimgrey;
+	width:250px;
+	height:110px;
+	padding:20px;
+	margin:auto;
+	font-family:Fabiolo;
+	font-size:18px;}
+	
+div{text-align:center;}
+
+span {text-align:center;}
+
+.vid {margin:auto;
+	padding:30px;}
+	
+.one, .two {border:4px outset white;
+	padding:0px;}
+	
+Century Gothic
+Cerita Senja FREE
+Chiller
+Fabiolo
+Grinched
+Impact Label
+Metropolis
+OCR A Std
